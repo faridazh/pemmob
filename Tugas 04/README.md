@@ -1,7 +1,9 @@
 # Tugas 04
 
-Farid Azhar kusuma
+Farid Azhar Kusuma
+
 20190801317
+
 
 Pemrograman Mobile - Tugas 04
 
